@@ -2,7 +2,7 @@
 title:  "에어팟리뷰"
 search: false
 categories: 
-  - Jekyll
+  - Review
 last_modified_at: 2019-11-19T08:06:00-05:00
 ---
 
