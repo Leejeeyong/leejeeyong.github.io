@@ -2,10 +2,10 @@
 main:
   - title: "Review"
     url: https://leejeeyong.github.io/review/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /about/
+  - title: "Tistory Blog"
+    url: https://greenteacat.tistory.com
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
