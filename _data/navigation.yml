@@ -4,9 +4,9 @@ main:
     url: https://leejeeyong.github.io/categories/#review
   - title: "Development"
     url: https://leejeeyong.github.io/categories/#development
-  - title: "About"
-    url: /about/
   - title: "Tistory Blog"
     url: https://greenteacat.tistory.com
+  - title: "About"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
