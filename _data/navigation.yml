@@ -2,11 +2,11 @@
 main:
   - title: "Review"
     url: https://leejeeyong.github.io/categories/#review
+  - title: "Development"
+    url: https://leejeeyong.github.io/categories/#development
   - title: "About"
     url: /about/
   - title: "Tistory Blog"
     url: https://greenteacat.tistory.com
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
