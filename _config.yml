@@ -23,7 +23,7 @@ name                     : "leejeeyong"
 description              : "An amazing website."
 url                      : "https://leejeeyong.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : Leejeeyong/leejeeyong.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Lee JeeYong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
   location         : "Korea_Seoul"
-  email            :
+  email            : "fghj0720@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
