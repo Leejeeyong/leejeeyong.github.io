@@ -116,7 +116,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fghj0720@gmail.com"
-    - label: "Bl"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://greenteacat.tistory.com"
     - label: "Twitter"
