@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/bio-photo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -111,14 +111,14 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
   location         : "Korea_Seoul"
-  email            : "fghj0720@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      url: "mailto:fghj0720@gmail.com"
+    - label: "Bl"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://greenteacat.tistory.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/leejeeyong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/leejeeyong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
