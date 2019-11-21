@@ -5,6 +5,7 @@ categories:
   - development
 toc: true
 toc_sticky: true
+Toc_label: "This POST"
 # header:
 #  teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 tags:
