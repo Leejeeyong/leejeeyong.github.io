@@ -15,11 +15,17 @@ last_modified_at: 2019-11-20T08:06:00-05:00
 
 ```
 
-![img](http://cfile21.uf.tistory.com/image/994A8B335A2A37290945C3)
+# Start
+
+
+
+![](http://cfile21.uf.tistory.com/image/994A8B335A2A37290945C3)
 
 
 
 
+
+##Add UI
 
 먼저 Canvas를 하나 만들어줍니다.
 
@@ -95,7 +101,7 @@ public static Vector2 defaultposition; 이것을 추가해줍니다.
 
 
 
-
+## Add DragHandler
 
 ```c#
 public class CircleDragScript : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
@@ -184,6 +190,8 @@ transform.position으로 위치를 지정해줍니다.
 
 
 저장을 하고 유니티로 돌아와서 실행을 해봅니다.
+
+# END
 
 
 
