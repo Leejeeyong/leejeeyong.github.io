@@ -3,6 +3,11 @@ title:  "[Unity]Drag&Drop"
 search: false
 categories: 
   - development
+toc: true
+toc_sticky: true
+# header:
+#  teaser: /assets/images/bio-photo-keyboard-teaser.jpg
+tags:
 last_modified_at: 2019-11-20T08:06:00-05:00
 ---
 
